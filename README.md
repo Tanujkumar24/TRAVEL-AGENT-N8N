@@ -38,7 +38,10 @@ An intelligent **AI Travel Assistant** built using **n8n**, integrating **Mistra
 
 ## 📸 Screenshots  
 
-![Workflow Screenshot](https://github.com/Tanujkumar24/TRAVEL-AGENT-N8N/blob/main/Screenshot%20(196).png)  
+![Workflow Screenshot](https://github.com/Tanujkumar24/TRAVEL-AGENT-N8N/blob/main/Screenshot%20(196).png) 
+![Workflow Screenshot](https://github.com/Tanujkumar24/TRAVEL-AGENT-N8N/blob/main/Screenshot%20(197).png)
+![Workflow Screenshot](https://github.com/Tanujkumar24/TRAVEL-AGENT-N8N/blob/main/Screenshot%20(198).png)
+![Workflow Screenshot](https://github.com/Tanujkumar24/TRAVEL-AGENT-N8N/blob/main/Screenshot%20(199).png)
 *(Replace this with actual screenshots of your n8n workflow)*  
 
 ---
