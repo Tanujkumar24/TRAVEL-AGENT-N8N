@@ -13,6 +13,10 @@ An intelligent **AI Travel Assistant** built using **n8n**, integrating **Mistra
 ✅ **Automated Responses** – Sends structured trip details back to users  
 
 ---
+![Workflow Diagram](https://github.com/Tanujkumar24/TRAVEL-AGENT-N8N/blob/main/diagram.png)
+---
+
+---
 
 ## 🛠️ Tech Stack  
 
